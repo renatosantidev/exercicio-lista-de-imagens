@@ -1,0 +1,14 @@
+@media (max-width: 762px) {
+    body {
+        height: 100%;
+    }
+
+    .caixa-geral {
+        flex-direction: column;
+        padding: 45px 20px 45px 20px;
+    }
+
+    .caixa-geral .fundo-imagem {
+        margin: 0;
+    }
+}
